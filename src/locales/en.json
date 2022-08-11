@@ -1,0 +1,13 @@
+{
+  "message": "hello i18n !!",
+  "vuejs": {
+    "titel": "Vuejs",
+    "description": "Vue (pronounced /vjuː/, like view) is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS and JavaScript, and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be it simple or complex."
+  },
+  "laravel": {
+    "titel": "Laravel",
+    "description": "Laravel is a free, open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the Model View Controller (MVC) architectural pattern. It is intended to be used as an application framework for PHP, but can be used as a standalone framework for larger projects.Laravel strives to provide an amazing developer experience while providing powerful features such as thorough dependency injection, an expressive database abstraction layer, queues and scheduled jobs, unit and integration testing, and more.Whether you are new to PHP web frameworks or have years of experience, Laravel is a framework that can grow with you. We'll help you take your first steps as a web developer or give you a boost as you take your expertise to the next level. We can't wait to see what you build.",
+    "inastallation": "Laravel utilizes Composer to manage its dependencies. So, before using Laravel, make sure you have Composer installed on your machine.",
+    "why": "There are a variety of tools and frameworks available to you when building a web application. However, we believe Laravel is the best choice for building modern, full-stack web applications."
+  }
+}
