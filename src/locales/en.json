@@ -8,6 +8,9 @@
     "titel": "Laravel",
     "description": "Laravel is a free, open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the Model View Controller (MVC) architectural pattern. It is intended to be used as an application framework for PHP, but can be used as a standalone framework for larger projects.Laravel strives to provide an amazing developer experience while providing powerful features such as thorough dependency injection, an expressive database abstraction layer, queues and scheduled jobs, unit and integration testing, and more.Whether you are new to PHP web frameworks or have years of experience, Laravel is a framework that can grow with you. We'll help you take your first steps as a web developer or give you a boost as you take your expertise to the next level. We can't wait to see what you build.",
     "inastallation": "Laravel utilizes Composer to manage its dependencies. So, before using Laravel, make sure you have Composer installed on your machine.",
-    "why": "There are a variety of tools and frameworks available to you when building a web application. However, we believe Laravel is the best choice for building modern, full-stack web applications."
+    "why": "There are a variety of tools and frameworks available to you when building a web application. However, we believe Laravel is the best choice for building modern, full-stack web applications.",
+    "database": {
+      "intro": "Laravel provides a simple, expressive database abstraction layer that makes it easy to query the database and interact with it in a more Object Oriented way.To insert data in Laravel, we can use Model or DB instance for its instance. We can access the database in both the ways. We call the model method Eloquent ORM. Whereas we access the DB instance with the help of packages."
+    }
   }
 }

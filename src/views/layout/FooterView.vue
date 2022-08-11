@@ -2,7 +2,7 @@
   <!-- Footer -->
   <footer class="text-center text-lg-start text-white bg-dark">
     <!-- Copyright -->
-    <div class="text-center p-3">
+    <div class="text-center">
       Copyright &copy; {{ getYear() }} and Designed by
       <b class="name">Rohit kumar</b>.
     </div>
@@ -38,7 +38,7 @@ footer {
   position: fixed;
   bottom: 0;
   width: 100%;
-  height: 50px;
+  height: 40px;
   z-index: 1;
 }
 

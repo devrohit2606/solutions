@@ -17,7 +17,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-md-7 ms-2">
+      <div class="col-md-8">
         <component v-bind:is="component" />
       </div>
       <div class="card col-md-2">
@@ -52,14 +52,6 @@ export default {
   data() {
     return {
       menuItems: [
-        {
-          name: "Home",
-          url: "/",
-        },
-        {
-          name: "About",
-          url: "/about",
-        },
         {
           name: "Laravel",
           url: "/laravel",

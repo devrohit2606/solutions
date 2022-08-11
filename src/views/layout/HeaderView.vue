@@ -78,13 +78,13 @@ export default {
           url: "/about",
         },
         {
-          name: "Laravel",
+          name: "Totorials",
           url: "/laravel",
         },
-        {
-          name: "Vuejs",
-          url: "/vue",
-        },
+        // {
+        //   name: "Vuejs",
+        //   url: "/vue",
+        // },
       ],
     };
   },
